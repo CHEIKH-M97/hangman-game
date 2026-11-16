@@ -16,6 +16,15 @@ The Hangman Game is a Command Line Interface (CLI) program developed by **CHEIKH
 4. The game ends when the word is guessed correctly or the hangman is fully deleted.
 
 
+## How to run
+
+You need Python 3.8+ on Windows (the game uses Windows console functions).
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
 ## Contact
 
 For questions, contributions, or feedback, please reach out to CHEIKH-M97 on GitHub or [yessin.cheikhrouhou05@hotmail.com].

@@ -1,0 +1,11 @@
+# Compiled output (PyInstaller)
+*.exe
+build/
+dist/
+*.spec
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
+.venv/
